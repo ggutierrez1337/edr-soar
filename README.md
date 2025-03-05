@@ -1,1 +1,1 @@
-# edr-soar
+# SOAR EDR Project
